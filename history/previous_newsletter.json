@@ -1,0 +1,94 @@
+{
+  "sections": [
+    {
+      "theme": "Intelligence Artificielle & Tech",
+      "items": [
+        {
+          "text": "L'adoption des agents IA atteint 40 % dans les grandes entreprises, contre 27 % l'an dernier.",
+          "source": "McKinsey & Company, 11 septembre 2026"
+        },
+        {
+          "text": "Seules 6 % des entreprises tirent un impact EBIT supérieur à 5 % de leurs projets d'IA.",
+          "source": "McKinsey & Company, 14 septembre 2026"
+        },
+        {
+          "text": "60 % des entreprises prévoient d'augmenter leurs investissements dans l'IA l'année prochaine.",
+          "source": "McKinsey & Company, 14 septembre 2026"
+        },
+        {
+          "text": "Une refonte appliquée des processus informatiques par l'IA réduit les coûts de 25 % à 35 %.",
+          "source": "Boston Consulting Group, 9 septembre 2026"
+        },
+        {
+          "text": "Le marché potentiel de la robotique humanoïde est désormais estimé à 138 milliards de dollars.",
+          "source": "Goldman Sachs, 11 septembre 2026"
+        }
+      ]
+    },
+    {
+      "theme": "Marchés Privés & Private Equity",
+      "items": [
+        {
+          "text": "CVC fixe l'objectif initial de son fonds Europe / Americas Fund X à 26 milliards d'euros.",
+          "source": "CVC, 11 septembre 2026"
+        },
+        {
+          "text": "Todd Sisitsky et Peter Rutland deviendront Co-CEO de CVC d'ici le premier trimestre 2028.",
+          "source": "CVC, 9 septembre 2026"
+        }
+      ]
+    },
+    {
+      "theme": "Macroéconomie & Marchés Financiers",
+      "items": [
+        {
+          "text": "Goldman Sachs anticipe un cours de l'or à 4 900 dollars l'once d'ici la fin 2026.",
+          "source": "Goldman Sachs, 11 septembre 2026"
+        },
+        {
+          "text": "Le pétrole repasse les 100 dollars le baril, provoquant un recul de 240 pb du Russell 2000.",
+          "source": "Eliant Capital, 13 septembre 2026"
+        },
+        {
+          "text": "Un tiers des épargnants américains pour la retraite possèdent plus de dettes de carte de crédit que d'épargne.",
+          "source": "McKinsey & Company, 9 septembre 2026"
+        }
+      ]
+    },
+    {
+      "theme": "Économie des Créateurs & Médias",
+      "items": [
+        {
+          "text": "Les créateurs de podcasts sur Substack génèrent désormais collectivement plus de 200 millions de dollars par an.",
+          "source": "Substack, 10 septembre 2026"
+        }
+      ]
+    }
+  ],
+  "entrepreneurship_ideas": [
+    "Cabinet de conseil en réingénierie des processus ('Workflow Redesign') pour transformer la productivité IA individuelle en marge EBIT.",
+    "Services d'architecture informatique pour préserver l'Enterprise Cortex et éviter le verrouillage cognitif auprès des fournisseurs de LLM.",
+    "Fourniture de matériaux chimiques avancés et composants spécialisés pour les infrastructures de datacenters d'IA."
+  ],
+  "sectors_to_watch": [
+    "Chimie spécialisée et matériaux électroniques pour infrastructures IA",
+    "Robotique humanoïde",
+    "Podcasting et monétisation directe d'audiences",
+    "Matières premières et énergie (Or et Pétrole)"
+  ],
+  "chart_data": [
+    {
+      "title": "Déploiement à l'échelle des agents IA dans les grandes entreprises (%)",
+      "type": "bar",
+      "labels": [
+        "2025",
+        "2026"
+      ],
+      "values": [
+        27,
+        40
+      ],
+      "source": "McKinsey & Company, 11 septembre 2026"
+    }
+  ]
+}
