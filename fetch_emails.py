@@ -65,6 +65,8 @@ def fetch_recent_emails(days=7, max_chars_per_email=6000):
     app_password = os.environ["GMAIL_APP_PASSWORD"]
 
     imap = imaplib.IMAP4_SSL(IMAP_SERVER)
+    print(f"DEBUG address={address!r} (len={len(address)})") 
+    print(f"DEBUG app_password length={len(app_password)}")
     imap.login(address, app_password)
     imap.select("INBOX")
 
