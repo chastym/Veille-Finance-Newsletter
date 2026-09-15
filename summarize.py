@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 # Check https://ai.google.dev for the current recommended free-tier model name
 # if this one is deprecated.
-MODEL_NAME = "gemini-2.0-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 SYSTEM_PROMPT = """Tu es l'assistant de veille d'un étudiant en finance/stratégie/gestion d'actifs.
 On te donne un lot d'emails (newsletters de banques d'investissement, gestionnaires d'actifs,
