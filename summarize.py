@@ -53,7 +53,7 @@ Si aucun chiffre ne se prête à un graphique, renvoie "chart_data": [].
 """
 
 
-def generate_newsletter_content(emails):
+def generate_newsletter_content(emails, previous_items=None):
     if not emails:
         return {
             "sections": [],
@@ -70,15 +70,24 @@ def generate_newsletter_content(emails):
         for e in emails
     )
 
+    history_block = ""
+    if previous_items:
+        already_covered = "\n".join(f"- {item}" for item in previous_items)
+        history_block = (
+            "\n\nVoici les points déjà traités la semaine dernière : ne les répète PAS "
+            "tels quels. Ne les mentionne à nouveau que si un chiffre a été mis à jour "
+            "ou qu'il y a un développement notable depuis, et dans ce cas précise "
+            "explicitement 'mise à jour :' dans le texte.\n" + already_covered
+        )
+
     response = model.generate_content(
-        f"Voici les emails reçus cette semaine :\n\n{corpus}",
+        f"Voici les emails reçus cette semaine :\n\n{corpus}{history_block}",
         generation_config={"response_mime_type": "application/json"},
     )
 
     try:
         return json.loads(response.text)
     except (json.JSONDecodeError, AttributeError):
-        # Fallback so nothing is lost if the model didn't return clean JSON
         return {
             "sections": [
                 {
