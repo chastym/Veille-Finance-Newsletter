@@ -4,91 +4,171 @@
       "theme": "Intelligence Artificielle & Tech",
       "items": [
         {
-          "text": "L'adoption des agents IA atteint 40 % dans les grandes entreprises, contre 27 % l'an dernier.",
-          "source": "McKinsey & Company, 11 septembre 2026"
+          "text": "Les géants de la tech devraient investir plus de 1 000 milliards de dollars dans l'IA en 2025 et 2026.",
+          "source": "AI Made Simple, 18 septembre 2026"
         },
         {
-          "text": "Seules 6 % des entreprises tirent un impact EBIT supérieur à 5 % de leurs projets d'IA.",
-          "source": "McKinsey & Company, 14 septembre 2026"
+          "text": "Les hyperscalers dépenseront 1,57 dollar de capex additionnel par dollar de flux de trésorerie opérationnel d'ici 2027.",
+          "source": "AI Made Simple, 18 septembre 2026"
         },
         {
-          "text": "60 % des entreprises prévoient d'augmenter leurs investissements dans l'IA l'année prochaine.",
-          "source": "McKinsey & Company, 14 septembre 2026"
+          "text": "Seules 2 % des entreprises du S&P 500 ont quantifié l'impact financier de l'IA sur leurs résultats.",
+          "source": "Goldman Sachs, 18 septembre 2026"
         },
         {
-          "text": "Une refonte appliquée des processus informatiques par l'IA réduit les coûts de 25 % à 35 %.",
-          "source": "Boston Consulting Group, 9 septembre 2026"
+          "text": "Le surplus économique généré pour les consommateurs par l'IA aux États-Unis atteint 172 milliards de dollars.",
+          "source": "Exponential View, 19 septembre 2026"
         },
         {
-          "text": "Le marché potentiel de la robotique humanoïde est désormais estimé à 138 milliards de dollars.",
-          "source": "Goldman Sachs, 11 septembre 2026"
+          "text": "La demande mondiale d'électricité pour les centres de données devrait augmenter de 170 % entre 2025 et 2030.",
+          "source": "Goldman Sachs, 16 septembre 2026"
+        },
+        {
+          "text": "Factory lève 200 millions de dollars sur une valorisation de 5 milliards de dollars pour son agent Droid.",
+          "source": "MTS, 15 septembre 2026"
+        },
+        {
+          "text": "Claude dirige 26 % des travaux de R&D internes d'Anthropic, avec 30 000 agents exécutés en simultané.",
+          "source": "MTS, 17 septembre 2026"
+        },
+        {
+          "text": "Emulate négocie une levée de 700 millions de dollars en amorçage sur une valorisation de 3 milliards de dollars.",
+          "source": "MTS, 17 septembre 2026"
+        },
+        {
+          "text": "Profound lève 180 millions de dollars en Série D, portant sa valorisation à 1,8 milliard de dollars.",
+          "source": "Product Market Fit, 16 septembre 2026"
+        },
+        {
+          "text": "Elon Musk, Mark Zuckerberg et Jensen Huang font pression contre la création d'une agence fédérale de régulation de l'IA.",
+          "source": "MTS, 17 septembre 2026"
+        },
+        {
+          "text": "Le gouverneur de Californie impose la création d'un plan de bouton d'arrêt d'urgence pour l'IA sous deux mois.",
+          "source": "MTS, 18 septembre 2026"
+        },
+        {
+          "text": "Anthropic et Accenture investissent plus de 1 milliard de dollars sur cinq ans dans la sécurité de l'IA.",
+          "source": "MTS, 18 septembre 2026"
+        },
+        {
+          "text": "Près de 29 % des salariés déclarent avoir sciemment saboté la stratégie IA de leur propre entreprise.",
+          "source": "McKinsey & Company, 16 septembre 2026"
         }
       ]
     },
     {
-      "theme": "Marchés Privés & Private Equity",
+      "theme": "Marchés Financiers & Capital-Risque",
       "items": [
         {
-          "text": "CVC fixe l'objectif initial de son fonds Europe / Americas Fund X à 26 milliards d'euros.",
-          "source": "CVC, 11 septembre 2026"
+          "text": "L'âge médian des nouvelles licornes est tombé à 4 ans, enregistrant un recul de 37 % depuis 2023.",
+          "source": "a16z, 18 septembre 2026"
         },
         {
-          "text": "Todd Sisitsky et Peter Rutland deviendront Co-CEO de CVC d'ici le premier trimestre 2028.",
-          "source": "CVC, 9 septembre 2026"
+          "text": "La cohorte de startups 2022 a multiplié par trois ses revenus entre l'année 3 et l'année 4.",
+          "source": "a16z, 18 septembre 2026"
+        },
+        {
+          "text": "Warren Buffett quitte la présidence du conseil d'administration de Berkshire Hathaway au profit de son fils Howard.",
+          "source": "Compounding Quality, 19 septembre 2026"
+        },
+        {
+          "text": "CVC DIF et Carlyle acquièrent le spécialiste de la vidéosurveillance BauWatch, Haniel conservant 10 % du capital.",
+          "source": "CVC, 17 septembre 2026"
+        },
+        {
+          "text": "CVC entre au capital du cabinet d'ingénierie britannique Ridge en rachetant la participation de Horizon Capital.",
+          "source": "CVC, 17 septembre 2026"
         }
       ]
     },
     {
-      "theme": "Macroéconomie & Marchés Financiers",
+      "theme": "Macroéconomie, Géopolitique & Défense",
       "items": [
         {
-          "text": "Goldman Sachs anticipe un cours de l'or à 4 900 dollars l'once d'ici la fin 2026.",
-          "source": "Goldman Sachs, 11 septembre 2026"
+          "text": "Environ 25 % des importations manufacturières américaines présentent des dépendances commerciales stratégiques critiques.",
+          "source": "McKinsey & Company, 18 septembre 2026"
         },
         {
-          "text": "Le pétrole repasse les 100 dollars le baril, provoquant un recul de 240 pb du Russell 2000.",
-          "source": "Eliant Capital, 13 septembre 2026"
+          "text": "Le Congrès américain autorise des tarifs douaniers allant jusqu'à 100 % sur les pays achetant du pétrole russe.",
+          "source": "Arcos, 18 septembre 2026"
         },
         {
-          "text": "Un tiers des épargnants américains pour la retraite possèdent plus de dettes de carte de crédit que d'épargne.",
-          "source": "McKinsey & Company, 9 septembre 2026"
+          "text": "Le Pentagone alloue 97 % de ses budgets de munitions aux armes traditionnelles contre 3 % aux solutions économiques.",
+          "source": "a16z, 15 septembre 2026"
+        },
+        {
+          "text": "Les missiles de croisière de nouvelle génération coûtent 5 à 10 fois moins cher que les modèles traditionnels.",
+          "source": "a16z, 15 septembre 2026"
+        },
+        {
+          "text": "L'administration américaine prépare la vente de 40 000 munitions à Israël pour 2,8 milliards de dollars.",
+          "source": "Arcos, 17 septembre 2026"
+        },
+        {
+          "text": "Le déficit commercial quotidien de l'Union Européenne avec la Chine atteint désormais 1 milliard d'euros.",
+          "source": "Arcos, 17 septembre 2026"
+        },
+        {
+          "text": "La gauche remporte les élections législatives suédoises avec 176 sièges, l'extrême droite reculant à 17,5 %.",
+          "source": "Arcos, 18 septembre 2026"
+        },
+        {
+          "text": "L'AfD obtient 37 % aux régionales dans le nord-est allemand tandis que la CDU s'effondre à 5,5 %.",
+          "source": "Arcos, 21 septembre 2026"
         }
       ]
     },
     {
-      "theme": "Économie des Créateurs & Médias",
+      "theme": "Finances Personnelles & Gestion de Patrimoine",
       "items": [
         {
-          "text": "Les créateurs de podcasts sur Substack génèrent désormais collectivement plus de 200 millions de dollars par an.",
-          "source": "Substack, 10 septembre 2026"
+          "text": "L'encours de l'assurance-vie en France atteint 2 200 milliards d'euros, en hausse de 6,3 % sur un an.",
+          "source": "Bourseko, 17 septembre 2026"
+        },
+        {
+          "text": "La collecte nette de l'assurance-vie s'élève à 41,3 milliards d'euros sur les sept premiers mois de 2026.",
+          "source": "Bourseko, 17 septembre 2026"
         }
       ]
     }
   ],
   "entrepreneurship_ideas": [
-    "Cabinet de conseil en réingénierie des processus ('Workflow Redesign') pour transformer la productivité IA individuelle en marge EBIT.",
-    "Services d'architecture informatique pour préserver l'Enterprise Cortex et éviter le verrouillage cognitif auprès des fournisseurs de LLM.",
-    "Fourniture de matériaux chimiques avancés et composants spécialisés pour les infrastructures de datacenters d'IA."
+    "Plateformes de cybersécurité spécialisées dans la neutralisation d'attaques menées par des essaims d'agents IA autonomes.",
+    "Services d'optimisation énergétique et de gestion de charge d'électricité pour les centres de données IA.",
+    "Outils d'audit et d'optimisation de la visibilité des marques au sein des moteurs de recherche par IA (GEO)."
   ],
   "sectors_to_watch": [
-    "Chimie spécialisée et matériaux électroniques pour infrastructures IA",
-    "Robotique humanoïde",
-    "Podcasting et monétisation directe d'audiences",
-    "Matières premières et énergie (Or et Pétrole)"
+    "Defence Tech et systèmes de frappe à bas coût",
+    "Infrastructures électriques et réseaux pour datacenters IA",
+    "Agents d'ingénierie et d'automatisation logicielle d'entreprise"
   ],
   "chart_data": [
     {
-      "title": "Déploiement à l'échelle des agents IA dans les grandes entreprises (%)",
+      "title": "Allocation du budget munitions du Pentagone (%)",
       "type": "bar",
       "labels": [
-        "2025",
-        "2026"
+        "Munitions traditionnelles",
+        "Solutions émergentes à bas coût"
       ],
       "values": [
-        27,
-        40
+        97,
+        3
       ],
-      "source": "McKinsey & Company, 11 septembre 2026"
+      "source": "a16z, 15 septembre 2026"
+    },
+    {
+      "title": "Indice de la demande mondiale d'électricité des Data Centers (Base 100 en 2025)",
+      "type": "line",
+      "labels": [
+        "2025",
+        "2030"
+      ],
+      "values": [
+        100,
+        270
+      ],
+      "source": "Goldman Sachs, 16 septembre 2026"
     }
   ]
 }
