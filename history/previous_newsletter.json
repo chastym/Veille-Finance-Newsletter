@@ -4,171 +4,245 @@
       "theme": "Intelligence Artificielle & Tech",
       "items": [
         {
-          "text": "Les géants de la tech devraient investir plus de 1 000 milliards de dollars dans l'IA en 2025 et 2026.",
-          "source": "AI Made Simple, 18 septembre 2026"
+          "text": "Z.ai GLM-5.3 (score 45) et Kimi K3 (44) dominent l'indice d'intelligence AAII face aux modèles ouverts américains.",
+          "source": "Interconnects, 21 septembre 2026"
         },
         {
-          "text": "Les hyperscalers dépenseront 1,57 dollar de capex additionnel par dollar de flux de trésorerie opérationnel d'ici 2027.",
-          "source": "AI Made Simple, 18 septembre 2026"
+          "text": "Les modèles ouverts chinois atteignent 3,2 milliards de téléchargements sur Hugging Face, surpassant les États-Unis de 1,6 milliard.",
+          "source": "Interconnects, 21 septembre 2026"
         },
         {
-          "text": "Seules 2 % des entreprises du S&P 500 ont quantifié l'impact financier de l'IA sur leurs résultats.",
-          "source": "Goldman Sachs, 18 septembre 2026"
+          "text": "Anthropic lance Claude Opus 5.5, affichant un coût réduit de 40 % et une vitesse supérieure de 30 %.",
+          "source": "MTS, 23 septembre 2026"
         },
         {
-          "text": "Le surplus économique généré pour les consommateurs par l'IA aux États-Unis atteint 172 milliards de dollars.",
-          "source": "Exponential View, 19 septembre 2026"
+          "text": "OpenAI commercialise GPT-6 Sol à 2 $ et Luna à 0,10 $ le million de tokens d'entrée.",
+          "source": "MTS, 23 septembre 2026"
         },
         {
-          "text": "La demande mondiale d'électricité pour les centres de données devrait augmenter de 170 % entre 2025 et 2030.",
-          "source": "Goldman Sachs, 16 septembre 2026"
+          "text": "Un groupe de 950 agents Claude a identifié de manière autonome un système enzymatique inconnu en 21 heures.",
+          "source": "MTS, 24 septembre 2026"
         },
         {
-          "text": "Factory lève 200 millions de dollars sur une valorisation de 5 milliards de dollars pour son agent Droid.",
-          "source": "MTS, 15 septembre 2026"
+          "text": "Le coût de l'intelligence artificielle a été divisé par 940 en trois ans jusqu'à 0,04 $ le million.",
+          "source": "Artificial Intelligence Made Simple, 27 septembre 2026"
         },
         {
-          "text": "Claude dirige 26 % des travaux de R&D internes d'Anthropic, avec 30 000 agents exécutés en simultané.",
-          "source": "MTS, 17 septembre 2026"
+          "text": "33 % des entreprises du S&P 500 ont chiffré l'impact de l'IA lors des résultats du T2 2026.",
+          "source": "Exponential View, 21 septembre 2026"
         },
         {
-          "text": "Emulate négocie une levée de 700 millions de dollars en amorçage sur une valorisation de 3 milliards de dollars.",
-          "source": "MTS, 17 septembre 2026"
+          "text": "Les entreprises mentionnant l'IA font état de gains de productivité moyens de 47 %.",
+          "source": "Exponential View, 21 septembre 2026"
         },
         {
-          "text": "Profound lève 180 millions de dollars en Série D, portant sa valorisation à 1,8 milliard de dollars.",
-          "source": "Product Market Fit, 16 septembre 2026"
+          "text": "La mention du terme « Agentic » touche 24 % des conférences de résultats, contre 9 % début 2025.",
+          "source": "Exponential View, 21 septembre 2026"
         },
         {
-          "text": "Elon Musk, Mark Zuckerberg et Jensen Huang font pression contre la création d'une agence fédérale de régulation de l'IA.",
-          "source": "MTS, 17 septembre 2026"
+          "text": "L'agent Meta Muse enregistre 700 000 téléchargements le premier jour et cumule 3 millions d'utilisateurs.",
+          "source": "Citrini Research, 22 septembre 2026"
         },
         {
-          "text": "Le gouverneur de Californie impose la création d'un plan de bouton d'arrêt d'urgence pour l'IA sous deux mois.",
-          "source": "MTS, 18 septembre 2026"
+          "text": "80 % des organisations observent des comportements non autorisés chez leurs agents IA.",
+          "source": "McKinsey, 27 septembre 2026"
         },
         {
-          "text": "Anthropic et Accenture investissent plus de 1 milliard de dollars sur cinq ans dans la sécurité de l'IA.",
-          "source": "MTS, 18 septembre 2026"
+          "text": "33 % des pages web créées en 2026 intègrent des contenus produits par IA.",
+          "source": "Exponential View, 27 septembre 2026"
         },
         {
-          "text": "Près de 29 % des salariés déclarent avoir sciemment saboté la stratégie IA de leur propre entreprise.",
-          "source": "McKinsey & Company, 16 septembre 2026"
+          "text": "50 % des communiqués de presse publiés en juin 2026 comportent du texte généré par IA.",
+          "source": "Exponential View, 27 septembre 2026"
+        },
+        {
+          "text": "DensityAI négocie une levée de fonds sur une valorisation de 10 milliards de dollars.",
+          "source": "MTS, 26 septembre 2026"
+        },
+        {
+          "text": "Les neolabs IA ont levé 24 milliards de dollars sur deux trimestres sans générer de chiffre d'affaires.",
+          "source": "MTS, 26 septembre 2026"
+        },
+        {
+          "text": "HappyRobot lève 150 millions de dollars en Série B pour une valorisation de 1,2 milliard de dollars.",
+          "source": "Product Market Fit, 23 septembre 2026"
+        },
+        {
+          "text": "Le projet de loi américain « Ban ASI Act » prévoit 20 ans de prison pour infractions graves.",
+          "source": "MTS, 24 septembre 2026"
+        },
+        {
+          "text": "73 % des Américains jugent insuffisante l'action des entreprises face aux risques majeurs de l'IA.",
+          "source": "MTS, 26 septembre 2026"
+        },
+        {
+          "text": "Google, OpenAI et Anthropic fondent la « Standards Authority for Frontier AI ».",
+          "source": "MTS, 25 septembre 2026"
         }
       ]
     },
     {
-      "theme": "Marchés Financiers & Capital-Risque",
+      "theme": "Infrastructures, Énergie & Datacenters",
       "items": [
         {
-          "text": "L'âge médian des nouvelles licornes est tombé à 4 ans, enregistrant un recul de 37 % depuis 2023.",
-          "source": "a16z, 18 septembre 2026"
+          "text": "Cinq géants tech investiront 750 milliards de dollars en capex en 2026, soit 38 % de leurs revenus.",
+          "source": "Artificial Intelligence Made Simple, 27 septembre 2026"
         },
         {
-          "text": "La cohorte de startups 2022 a multiplié par trois ses revenus entre l'année 3 et l'année 4.",
-          "source": "a16z, 18 septembre 2026"
+          "text": "Les dépenses mondiales en infrastructures d'IA atteindront 770 milliards de dollars fin 2026.",
+          "source": "McKinsey, 21 septembre 2026"
         },
         {
-          "text": "Warren Buffett quitte la présidence du conseil d'administration de Berkshire Hathaway au profit de son fils Howard.",
-          "source": "Compounding Quality, 19 septembre 2026"
+          "text": "Nscale lève 3,36 milliards de dollars pré-IPO avec plus de 103 milliards de dollars de contrats.",
+          "source": "MTS, 26 septembre 2026"
         },
         {
-          "text": "CVC DIF et Carlyle acquièrent le spécialiste de la vidéosurveillance BauWatch, Haniel conservant 10 % du capital.",
-          "source": "CVC, 17 septembre 2026"
+          "text": "AMD passe le cap des 1 000 milliards de dollars de capitalisation boursière.",
+          "source": "MTS, 22 septembre 2026"
         },
         {
-          "text": "CVC entre au capital du cabinet d'ingénierie britannique Ridge en rachetant la participation de Horizon Capital.",
-          "source": "CVC, 17 septembre 2026"
+          "text": "Le taux de vacance des datacenters nord-américains tombe au niveau historique de 1,4 %.",
+          "source": "TheBigBerbowski, 24 septembre 2026"
+        },
+        {
+          "text": "Cipher Digital sécurise 11,4 milliards de dollars de baux avec Amazon Data Services.",
+          "source": "TheBigBerbowski, 24 septembre 2026"
+        },
+        {
+          "text": "Texas Pacific Land valorise ses 894 000 acres texans à 25 milliards de dollars en Bourse.",
+          "source": "Bourseko, 28 septembre 2026"
+        },
+        {
+          "text": "La demande de transformateurs haute tension pour datacenters dépasse la capacité de production mondiale.",
+          "source": "McKinsey, 28 septembre 2026"
         }
       ]
     },
     {
-      "theme": "Macroéconomie, Géopolitique & Défense",
+      "theme": "Macroéconomie & Marchés Financiers",
       "items": [
         {
-          "text": "Environ 25 % des importations manufacturières américaines présentent des dépendances commerciales stratégiques critiques.",
-          "source": "McKinsey & Company, 18 septembre 2026"
+          "text": "Goldman Sachs prévoit que l'investissement IA deviendra un léger frein sur les bénéfices S&P 500 d'ici 2028.",
+          "source": "Goldman Sachs, 25 septembre 2026"
         },
         {
-          "text": "Le Congrès américain autorise des tarifs douaniers allant jusqu'à 100 % sur les pays achetant du pétrole russe.",
-          "source": "Arcos, 18 septembre 2026"
+          "text": "Le rendement des obligations américaines à 10 ans frôle 5,3 %, au plus haut depuis 2006.",
+          "source": "Eliant, 27 septembre 2026"
         },
         {
-          "text": "Le Pentagone alloue 97 % de ses budgets de munitions aux armes traditionnelles contre 3 % aux solutions économiques.",
-          "source": "a16z, 15 septembre 2026"
+          "text": "Le cours du Bitcoin dépasse 85 000 dollars, en hausse de 35 % depuis début août.",
+          "source": "FinanceData, 22 septembre 2026"
         },
         {
-          "text": "Les missiles de croisière de nouvelle génération coûtent 5 à 10 fois moins cher que les modèles traditionnels.",
-          "source": "a16z, 15 septembre 2026"
+          "text": "Les fonds spécialisés Quality Investing s'affichent en baisse marquée, à l'image d'Akre (-16 % YTD).",
+          "source": "Compounding Quality, 27 septembre 2026"
         },
         {
-          "text": "L'administration américaine prépare la vente de 40 000 munitions à Israël pour 2,8 milliards de dollars.",
-          "source": "Arcos, 17 septembre 2026"
+          "text": "Le déficit public français est projeté à 5,4 % du PIB en 2026.",
+          "source": "Bourseko, 24 septembre 2026"
         },
         {
-          "text": "Le déficit commercial quotidien de l'Union Européenne avec la Chine atteint désormais 1 milliard d'euros.",
-          "source": "Arcos, 17 septembre 2026"
+          "text": "L'écart de taux OAT-Bund dépasse 100 points de base, portant l'OAT 10 ans à 4,50 %.",
+          "source": "Bourseko, 24 septembre 2026"
         },
         {
-          "text": "La gauche remporte les élections législatives suédoises avec 176 sièges, l'extrême droite reculant à 17,5 %.",
-          "source": "Arcos, 18 septembre 2026"
+          "text": "La prévision de croissance économique en France pour 2026 est abaissée à 0,5 %.",
+          "source": "Bourseko, 24 septembre 2026"
         },
         {
-          "text": "L'AfD obtient 37 % aux régionales dans le nord-est allemand tandis que la CDU s'effondre à 5,5 %.",
+          "text": "AXA cible 10 milliards d'euros de résultat opérationnel d'ici 2029 contre 4,5 milliards au S1 2026.",
+          "source": "FinanceData, 22 septembre 2026"
+        }
+      ]
+    },
+    {
+      "theme": "Géopolitique & Défense",
+      "items": [
+        {
+          "text": "Les arrestations de migrants à la frontière sud des États-Unis plongent de 87 % à 12 200.",
+          "source": "Arcos, 24 septembre 2026"
+        },
+        {
+          "text": "Les saisies américaines de fentanyl chutent de 50 % grâce au déploiement de 10 000 soldats mexicains.",
+          "source": "Arcos, 24 septembre 2026"
+        },
+        {
+          "text": "Donald Trump renonce au rachat du Groenland mais obtient le contrôle permanent de sa défense.",
           "source": "Arcos, 21 septembre 2026"
+        },
+        {
+          "text": "Pékin et Washington prolongent leur trêve commerciale de deux mois jusqu'au 10 janvier 2027.",
+          "source": "MTS, 25 septembre 2026"
+        },
+        {
+          "text": "La Chine s'engage à acheter 25 millions de tonnes de soja américain.",
+          "source": "Arcos, 25 septembre 2026"
+        },
+        {
+          "text": "Le Japon crée sa première agence de renseignement extérieur dotée de 700 agents.",
+          "source": "Arcos, 23 septembre 2026"
+        },
+        {
+          "text": "Le général chinois Zhang Youxia est exclu du Parti pour soupçons de fuites stratégiques.",
+          "source": "Arcos, 23 septembre 2026"
+        },
+        {
+          "text": "Mise à jour : l'Éthiopie replonge dans le conflit armé avec le TPLF et 6 groupes alliés.",
+          "source": "Arcos, 28 septembre 2026"
+        },
+        {
+          "text": "La France déploie des troupes au port saoudien de Yanbu pour sécuriser 5 millions de barils par jour.",
+          "source": "Arcos, 25 septembre 2026"
         }
       ]
     },
     {
-      "theme": "Finances Personnelles & Gestion de Patrimoine",
+      "theme": "Automatique & Robotique",
       "items": [
         {
-          "text": "L'encours de l'assurance-vie en France atteint 2 200 milliards d'euros, en hausse de 6,3 % sur un an.",
-          "source": "Bourseko, 17 septembre 2026"
+          "text": "13 000 robots humanoïdes ont été livrés dans le monde en 2025, un chiffre quintuplé sur un an.",
+          "source": "FinanceData, 22 septembre 2026"
         },
         {
-          "text": "La collecte nette de l'assurance-vie s'élève à 41,3 milliards d'euros sur les sept premiers mois de 2026.",
-          "source": "Bourseko, 17 septembre 2026"
+          "text": "Les entreprises chinoises AgiBot et Unitree détiennent 75 % du marché mondial de la robotique humanoïde.",
+          "source": "FinanceData, 22 septembre 2026"
+        },
+        {
+          "text": "Un robot humanoïde chinois coûte 4 900 dollars contre 30 000 dollars pour un concurrent américain.",
+          "source": "FinanceData, 22 septembre 2026"
+        },
+        {
+          "text": "Tesla multiplie par dix la production d'Optimus mais fait face à des goulots d'étranglement sur les mains.",
+          "source": "MTS, 26 septembre 2026"
         }
       ]
     }
   ],
   "entrepreneurship_ideas": [
-    "Plateformes de cybersécurité spécialisées dans la neutralisation d'attaques menées par des essaims d'agents IA autonomes.",
-    "Services d'optimisation énergétique et de gestion de charge d'électricité pour les centres de données IA.",
-    "Outils d'audit et d'optimisation de la visibilité des marques au sein des moteurs de recherche par IA (GEO)."
+    "Développer des solutions d'ingénierie et de matériels de test (harness engineering) pour encadrer l'exécution des agents IA.",
+    "Créer des outils de vérification et d'authentification de contenu pour filtrer les flux synthétiques générés par IA.",
+    "Offrir des services d'optimisation électrique et thermique pour la reconversion de sites fonciers en datacenters IA.",
+    "Lancer des plateformes de santé intégrant la préparation personnalisée de médicaments et la livraison directe au patient."
   ],
   "sectors_to_watch": [
-    "Defence Tech et systèmes de frappe à bas coût",
-    "Infrastructures électriques et réseaux pour datacenters IA",
-    "Agents d'ingénierie et d'automatisation logicielle d'entreprise"
+    "Foncier industriel et conversion de sites miniers pour datacenters IA",
+    "Équipements de réseaux électriques et transformateurs haute tension",
+    "Robotique humanoïde et composants de précision (actionneurs, mains synthétiques)",
+    "Packaging avancé de semi-conducteurs (hybrid bonding HBM) et interconnexions optiques"
   ],
   "chart_data": [
     {
-      "title": "Allocation du budget munitions du Pentagone (%)",
+      "title": "Volume de téléchargements de modèles ouverts sur Hugging Face (milliards)",
       "type": "bar",
       "labels": [
-        "Munitions traditionnelles",
-        "Solutions émergentes à bas coût"
+        "Chine (Qwen, etc.)",
+        "États-Unis"
       ],
       "values": [
-        97,
-        3
+        3.2,
+        1.6
       ],
-      "source": "a16z, 15 septembre 2026"
-    },
-    {
-      "title": "Indice de la demande mondiale d'électricité des Data Centers (Base 100 en 2025)",
-      "type": "line",
-      "labels": [
-        "2025",
-        "2030"
-      ],
-      "values": [
-        100,
-        270
-      ],
-      "source": "Goldman Sachs, 16 septembre 2026"
+      "source": "Interconnects, 21 septembre 2026"
     }
   ]
 }
